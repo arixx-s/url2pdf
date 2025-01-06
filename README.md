@@ -1,2 +1,3 @@
-# url2pdf
-A chrome extension to convert url links to pdf..
+# url2pdf <br>
+A chrome extension to convert url links to pdf.. <br>
+Through the basic knowledge of html, css and some sort of js, i have created this chrome extension that you can pin and use it as it directs you to 'PDF24 Tools' where you can provide your url into the inbox and convert it into a pdf file...
