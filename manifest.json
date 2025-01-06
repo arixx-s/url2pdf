@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "URL to PDF Converter",
+    "version": "1.0",
+    "description": "Convert URLs to PDFs.",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["https://*.convertapi.com/*"],
+    "background": {
+    "service_worker": "background.js"
+  },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "128": "logo.png"
+      }
+    }
+  }
+  
